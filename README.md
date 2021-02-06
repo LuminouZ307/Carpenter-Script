@@ -1,5 +1,5 @@
 # Scripts
-/* BACA INI!
+ BACA INI!
 
 Script Job Carpenter by LuminouZ
 
@@ -12,4 +12,4 @@ DENGAN CATATAN!
 
 - Tidak di perjual belikan
 
-Soon gw juga akan me Release Script gua yang lainnya, jadi Staytune aja ya, Thankyou!*/
+Soon gw juga akan me Release Script gua yang lainnya, jadi Staytune aja ya, Thankyou!
